@@ -28,7 +28,7 @@ def introduce(name, age):
 print(introduce(name = "alice", age = 23))
 
 #anonymous functions : lambda
-add = lambda x, y: x + y
+# add = lambda x, y: x + y
 print(add(2, 3)) 
 
 #using lambda with map()
