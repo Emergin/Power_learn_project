@@ -1,0 +1,1 @@
+another update on file handling now am rewriting this using try except blocks for file handling and using finally
