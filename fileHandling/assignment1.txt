@@ -1,0 +1,4 @@
+Assignment text file 
+this file is to be modified 
+after modification the new contents are to be saved to another file 
+i need another modified text file
