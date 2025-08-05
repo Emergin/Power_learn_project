@@ -1,0 +1,3 @@
+The assignment file has been overwriten with this file
+This is the new modified file
+it has been created automatically using the write() finction
