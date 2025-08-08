@@ -1,0 +1,1 @@
+this is me practising how to use write() in file handling using python
