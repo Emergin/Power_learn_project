@@ -1,0 +1,4 @@
+sales summary report===============================
+total revenue is 2455 
+best selling product is bata 
+the day with the highest sales is 2025-01-21 
